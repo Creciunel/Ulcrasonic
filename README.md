@@ -8,3 +8,5 @@ Working frequency       40KHz/80 KHz/100 KHz
 Working voltage         220V/110V±10% 50Hz/60Hz
 Maximum output current  4A
 Ambient temperature     0-40ºC
+
+https://jydultrasonic.en.made-in-china.com/product/vOpaAsFxhQkz/China-Jyd-1500e-1200W-1500W-28-40-80-100-120kHz-MCU-Sweep-Multi-Frequency-Ultrasonic-Wave-Generator-for-Ultrasonic-Cleaning.html
