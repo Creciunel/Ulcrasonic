@@ -1,7 +1,7 @@
 # Ulcrasonic
 Set on/off for ultrasonic generator
 
-table>
+<table>
   <tr>
     <th>Product model</th>
     <th>Driving power</th>
