@@ -1,6 +1,18 @@
 # Ulcrasonic
 Set on/off for ultrasonic generator
 
+table>
+  <tr>
+    <th>Product model</th>
+    <th>Driving power</th>
+    <th>Power control</th>
+  </tr>
+  <tr>
+    <td>JYD-1500E</td>
+    <td>600-1200W</td>
+    <td>0-100%</td>
+  </tr>
+</table>
 Product model           JYD-1500E
 Driving power           600-1200W
 Power control           0-100%
