@@ -23,9 +23,8 @@ Set on/off for ultrasonic generator
 </table>
 
  <img src="https://image.made-in-china.com/43f34j00ihRrEcvmACbK/Jyd-1500e-Hot-Sale-Multi-Frequency-Ultrasonic-Wave-Generator.webp" width="350" title="ultrasonic generator" align="center">
- 
- ![Test Image 1](Photo.png)
- ![Test Image 1](./Ulcrasonic/QTUltrasonic/App.png)
+ <img width="350" src=“Photo.png”>
+ <img width="350" src=“https://github.com/Creciunel/Ulcrasonic/blob/main/QTUltrasonic/App.png?raw=true”>
  
  <a href="https://jydultrasonic.en.made-in-china.com/product/vOpaAsFxhQkz/China-Jyd-1500e-1200W-1500W-28-40-80-100-120kHz-MCU-Sweep-Multi-Frequency-Ultrasonic-Wave-Generator-for-Ultrasonic-Cleaning.html">Got to store</a>
 
